@@ -6,8 +6,8 @@ git clone https://github.com/MichaelDimmitt/preparation-for-angular-in-an-interv
 cd preparation-for-angular-in-an-interview &&
 npm install &&
 ng build &&
-ng test &&
 ng e2e &&
+ng test &&
 open http://localhost:4200 &&
 ng serve
 ```
