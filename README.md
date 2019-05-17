@@ -2,11 +2,14 @@
 
 ## Usage information
 ```
-ng serve &&
-open http://localhost:4200 &&
+git clone https://github.com/MichaelDimmitt/preparation-for-angular-in-an-interview.git &&
+cd preparation-for-angular-in-an-interview &&
+npm install &&
 ng build &&
 ng test &&
-ng e2e
+ng e2e &&
+open http://localhost:4200 &&
+ng serve
 ```
 
 `ng generate component component-name`
